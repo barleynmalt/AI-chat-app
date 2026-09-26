@@ -1,0 +1,8 @@
+.venv/
+.env
+sessions/
+output/
+__pycache__/
+logs/
+*.log
+node_modules/
